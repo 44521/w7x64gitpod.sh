@@ -26,4 +26,4 @@ echo "Wait 2 minute to finish bot"
 echo "You can close this tab"
 echo "RDP runs for 50 hours"
 echo "===================================="
-sleep 432000
+sleep 2592000
